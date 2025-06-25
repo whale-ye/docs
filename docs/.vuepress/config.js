@@ -14,7 +14,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: '知识库',
-        link: '/subassembly/directives/limitNumber.md'
+        link: '/subassembly/directives/limitNumber',
       }
     ],
     sidebarDepth: 3, // 本页面的侧边栏深度
