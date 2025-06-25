@@ -5,15 +5,17 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'zh-CN',
   title: 'VuePress',
-  description: 'My first VuePress Site',
+  description: '个人知识库',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
-    navbar: ['/', {
-      text: '知识库',
-      link: '/subassembly/directives/limitNumber.md'
-    }],
+    navbar: [
+      {
+        text: '知识库',
+        link: '/subassembly/directives/limitNumber.md'
+      }
+    ],
     sidebarDepth: 3, // 本页面的侧边栏深度
     contributors: true,//贡献者列表
     lastUpdated: true,//最后更新时间
