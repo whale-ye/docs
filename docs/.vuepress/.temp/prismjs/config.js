@@ -1,10 +1,10 @@
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/styles/collapsed-lines.css"
-import { setupCollapsedLines } from "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/index.js"
-import "/Users/zhangyunxia/Downloads/zyx-csdn/vuepress-starter/node_modules/@vuepress/highlighter-helper/lib/client/styles/code-block-title.css"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/styles/collapsed-lines.css"
+import { setupCollapsedLines } from "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/index.js"
+import "/Users/zhangyunxia/Downloads/zyx-csdn/docs/node_modules/@vuepress/highlighter-helper/lib/client/styles/code-block-title.css"
 
 export default {
   setup() {
